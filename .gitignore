@@ -1,0 +1,22 @@
+#Ignorar archivos de logs
+baileys.log
+core.class.log
+queue.class.log
+
+#Ignorar archivos generados por el bot
+bot.qr.png
+
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de configuración local
+.eslintrc.js
+
+# Ignorar archivos de configuración de Docker
+Dockerfile
+
+# Ignorar archivos de bloqueo de dependencias
+package-lock.json
+
+# Ignorar archivos de imagen temporal
+bot_sessions/
